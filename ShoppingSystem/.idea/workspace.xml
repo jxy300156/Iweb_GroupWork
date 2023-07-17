@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24f8fbdd-4e67-4576-a759-21f6fc250404" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/CommodityManage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/Inter/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/impl/FunctionsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/OderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/util/ProductComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CommodityManage/src/main/java/com/iweb/util/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExcelWork/ExcelWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Leetcode_Work/Leetcode_Work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/inter/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/util/ProductComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/util/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test1/Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d0507/d0507.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d0714_client/d0714_client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d0714_server/d0714_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d0715_Javad16maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d0715_Javad16maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d0715_Javad16maven/d0715_Javad16maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d3025_java/d3025_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d421/d421.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d520/d520.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d527/d527.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d603/d603.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d703/d703.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d704/d704.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d705.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d705/d705.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d706/d706.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d707/d707.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d708/d708.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d710/d710.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d711/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d711/d711.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d711/out/production/d711/d711.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d712/d712.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d713/d713.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d714/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d714/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d714/d714.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d715/d715.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/d717_java16maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/src/main/java/com/iweb/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/src/test/java/com/iweb/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/target/classes/com/iweb/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../d717_java16maven/target/test-classes/com/iweb/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day0513/day0513.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExcelProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CommodityManage/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\software\repository" />
+        <option name="mavenHome" value="C:/software/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="C:\software\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ShbsiHgHavW43x5eiIbevt5PqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24f8fbdd-4e67-4576-a759-21f6fc250404" name="Default Changelist" comment="" />
+      <created>1689601968117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689601968117</updated>
+      <workItem from="1689601969272" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
